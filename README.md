@@ -1,0 +1,2 @@
+# algoo
+tugas algo uas 
